@@ -10,8 +10,8 @@
 ## HTML AND CSS BOILERPLATES
 
 ### Although the front-end styling is  important, we're going to focus more  on the JavaScript than the HTML and CSS. So some boilerplate files containing HTML and CSS  will be provided from Code Institute to copy and  paste into the development environment.
--  Html  boilerplate - [view](https://github.com/Code-Institute-Solutions/love-maths-2.0-sourcecode/blob/master/05-tidying-up/01-a-few-last-things/index.html)
--  CSS  boilerplate -  [view]()
+-  Html  boilerplate - [view sorce code](https://github.com/Code-Institute-Solutions/love-maths-2.0-sourcecode/blob/master/05-tidying-up/01-a-few-last-things/index.html)
+-  CSS  boilerplate -  [view sorce code](https://github.com/Code-Institute-Solutions/love-maths-2.0-sourcecode/blob/master/05-tidying-up/01-a-few-last-things/assets/css/style.css)
 
 
 ## WIREFRAMES

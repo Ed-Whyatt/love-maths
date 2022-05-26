@@ -7,11 +7,22 @@
 ### The Love maths game consists of icons for addition, subtraction, multiplication and division. The lesson will firstly wire up the first three though the walkthrough lessons and my challenge is to write the division game.
 
 
-### HTML AND CSS BOILERPLATES
+## HTML AND CSS BOILERPLATES
 
 ### Although the front-end styling is  important, we're going to focus more  on the JavaScript than the HTML and CSS. So some boilerplate files containing HTML and CSS  will be provided from Code Institute to copy and  paste into the development environment.
 -  Html  boilerplate - [view]()
 -  CSS  boilerplate -  [view]()
+
+
+## WIREFRAMES
+
+- ### When we look at our project we have a heading and we have a game area. And inside there we have two sections of material and a button. These are going to be called the classes of game area, controls area, and question area. The project have separate classes for our buttons and underneath that we have a score area. 
+
+- ### Mobile view ![TEXT](#)
+
+- ### Mobile view ![TEXT](#)
+
+- ### desktop view ![TEXT](#)
 
 
 
